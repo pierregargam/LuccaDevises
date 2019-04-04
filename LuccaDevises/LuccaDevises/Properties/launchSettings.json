@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Convertisseur": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\fichier de conversion\""
+    }
+  }
+}
